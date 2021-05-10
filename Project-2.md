@@ -205,9 +205,9 @@ sum_stats
     ## Points   3.240315e+02 6.511656e+02 5.249820e+06 2.291249e+03 0.36364753
     ## TPW%     2.484400e-03 4.992589e-03 3.086122e-04 1.756736e-02 0.03431126
 
-\*To give an example of some summary statistics of a numeric variable
+*To give an example of some summary statistics of a numeric variable
 grouped by a categorical variable, I used the variables *v1st%* and
-*Bracket*.
+*Bracket*.*
 
 ``` r
 # summary stats of `v1st%` grouped by categorical variable
